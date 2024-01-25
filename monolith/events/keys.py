@@ -1,0 +1,2 @@
+PEXELS_API_KEY = "lixdjldirFesJIJ27dgWhJjOeRinzqoAVqdyDvTOKoOA58qmnBNJvCkO"
+OPEN_WEATHER_API_KEY = "7a99d99c119bedfdeabb9e6b150be249"
